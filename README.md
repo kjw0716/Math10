@@ -2,6 +2,9 @@
 
 A De Anza College coursework archive containing **10 chapter homework PDFs** for Introductory Statistics. Topics progress from sampling and descriptive statistics to probability, estimation, hypothesis testing, and regression.
 
+[![Statistics](https://img.shields.io/badge/MATH%2010-Introductory%20Statistics-6f42c1?style=flat-square)](#included-materials)
+[![Chapters](https://img.shields.io/badge/homework-10%20chapter%20PDFs-555?style=flat-square)](#included-materials)
+
 ## Course context
 
 The matching Canvas course is **MATH 10, section 09Y, Spring 2025, Nguyen**. Its modules were used to verify the chapter titles below. De Anza's public mathematics course listing identifies MATH 10 as Introductory Statistics.
